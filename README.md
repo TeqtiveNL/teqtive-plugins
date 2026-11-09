@@ -5,7 +5,7 @@ Claude Code plugins by Teqtive.
 ## Add the marketplace
 
 ```bash
-claude plugin marketplace add Miesjh/teqtive-plugins
+claude plugin marketplace add TeqtiveNL/teqtive-plugins
 ```
 
 ## Plugins
