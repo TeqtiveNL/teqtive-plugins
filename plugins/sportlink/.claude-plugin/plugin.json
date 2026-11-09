@@ -1,12 +1,12 @@
 {
   "name": "sportlink",
   "displayName": "Sportlink",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kennis van de Sportlink Club.Dataservice API voor ontwikkelaars: verbinden, artikelen, uitvoervelden, bondsregels en codevoorbeelden. Onofficieel project, niet gelieerd aan of goedgekeurd door Sportlink.",
   "author": {
     "name": "Teqtive"
   },
-  "repository": "https://github.com/Miesjh/teqtive-plugins",
+  "repository": "https://github.com/TeqtiveNL/teqtive-plugins",
   "license": "MIT",
   "keywords": [
     "sportlink",

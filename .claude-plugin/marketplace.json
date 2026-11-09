@@ -9,7 +9,7 @@
       "name": "sportlink",
       "source": "./plugins/sportlink",
       "description": "Kennis van de Sportlink Club.Dataservice API voor ontwikkelaars: verbinden, artikelen, uitvoervelden, bondsregels en codevoorbeelden. Onofficieel project, niet gelieerd aan of goedgekeurd door Sportlink.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "development",
       "tags": [
         "sportlink",

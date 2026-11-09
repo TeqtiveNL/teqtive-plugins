@@ -12,7 +12,7 @@ Een Claude Code-plugin met kennis van de **Sportlink Club.Dataservice API**, voo
 ## Installeren
 
 ```bash
-claude plugin marketplace add Miesjh/teqtive-plugins
+claude plugin marketplace add TeqtiveNL/teqtive-plugins
 ```
 
 ```bash
