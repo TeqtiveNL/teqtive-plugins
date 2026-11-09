@@ -1,8 +1,8 @@
 # teqtive-plugins
 
-Claude Code-plugins van Teqtive.
+Claude Code plugins by Teqtive.
 
-## Marketplace toevoegen
+## Add the marketplace
 
 ```bash
 claude plugin marketplace add Miesjh/teqtive-plugins
@@ -10,10 +10,10 @@ claude plugin marketplace add Miesjh/teqtive-plugins
 
 ## Plugins
 
-| Plugin | Wat | Installeren |
+| Plugin | What it does | Install |
 |---|---|---|
-| [sportlink](plugins/sportlink/) | Kennis van de Sportlink Club.Dataservice API voor ontwikkelaars van clubsites en apps. Onofficieel, niet gelieerd aan Sportlink. | `claude plugin install sportlink@teqtive-plugins` |
+| [sportlink](plugins/sportlink/) | Knowledge of the Sportlink Club.Dataservice API for developers building club websites and apps (Dutch sports clubs). Unofficial, not affiliated with Sportlink. | `claude plugin install sportlink@teqtive-plugins` |
 
-## Licentie
+## License
 
-MIT © Teqtive, tenzij een plugin iets anders vermeldt.
+MIT © Teqtive, unless a plugin states otherwise.
