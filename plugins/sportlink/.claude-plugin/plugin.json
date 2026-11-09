@@ -1,8 +1,8 @@
 {
   "name": "sportlink",
   "displayName": "Sportlink",
-  "version": "1.0.1",
-  "description": "Kennis van de Sportlink Club.Dataservice API voor ontwikkelaars: verbinden, artikelen, uitvoervelden, bondsregels en codevoorbeelden. Onofficieel project, niet gelieerd aan of goedgekeurd door Sportlink.",
+  "version": "1.0.2",
+  "description": "Knowledge of the Sportlink Club.Dataservice API for developers: connecting, articles, output fields, federation rules and code examples. Unofficial project, not affiliated with or endorsed by Sportlink.",
   "author": {
     "name": "Teqtive"
   },
