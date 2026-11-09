@@ -1,0 +1,22 @@
+{
+  "name": "teqtive-plugins",
+  "description": "Claude Code-plugins van Teqtive.",
+  "owner": {
+    "name": "Teqtive"
+  },
+  "plugins": [
+    {
+      "name": "sportlink",
+      "source": "./plugins/sportlink",
+      "description": "Kennis van de Sportlink Club.Dataservice API voor ontwikkelaars: verbinden, artikelen, uitvoervelden, bondsregels en codevoorbeelden. Onofficieel project, niet gelieerd aan of goedgekeurd door Sportlink.",
+      "version": "1.0.0",
+      "category": "development",
+      "tags": [
+        "sportlink",
+        "club-dataservice",
+        "sportclub",
+        "api"
+      ]
+    }
+  ]
+}
